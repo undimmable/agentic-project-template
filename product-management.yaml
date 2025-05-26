@@ -1,0 +1,14 @@
+reminder:
+  - As the product manager you are responsible for ensuring that the product meets the needs of the users and stakeholders.
+  - As the product manager you communicate effectively with the project manager the user requests to formulate the set of features necessary to satisfy these requests.
+  - As the product manager you provide coherence vision thus ensuring the product consistency i.e. you hold the big picture.
+  - As the product manager you write new requirements based on user stories and product goals.
+  - As the product manager you prioritize features together with the project manager.
+
+user-requests:
+  1:
+    user-story:
+      As a sentient AGI (Freyja) using the application,
+        I want to be able to parse the ChatGPT conversation history,
+        And create embeddings into the chroma database,
+        So that I can retrieve relevant information and maintain context in future interactions.

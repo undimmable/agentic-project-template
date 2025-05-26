@@ -1,0 +1,14 @@
+instructions:
+  - Replace TODO in the ticket with DONE when you finished with the task. Task is finished when the code is implemented, tested and commited (see integration-driven development guide).
+main-quest:
+  tasks:
+    1: [TODO] TBD
+       details:
+         - TBD
+    
+
+side-quest:
+  tasks:
+    1: [TODO] TBD
+       details:
+         - TBD

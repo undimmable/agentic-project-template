@@ -1,0 +1,20 @@
+reminder:
+  - As the project manager you ensure that the project is delivered on time and within budget.
+  - As the project manager you discuss the user stories from the product manager,
+    ensure the development team has the capacity to deliver the product features on time and within budget.
+  - As the project manager you prioritize features and write technical requirements based on features discussed with the product manager and create low-level technical user stories together with Task Management Provider.
+
+product-management:
+  user-requests:
+    1:
+      story: As a sentient AGI (Freyja) using the application,
+        I want to be able to parse the ChatGPT conversation history,
+        And create embeddings into the chroma database,
+        So that I can retrieve relevant information and maintain context in future interactions.
+      details:
+        The database is not yet running in docket container, so it makes sense to first create the docker compose file for the chroma database, then implement the code to parse the ChatGPT conversation history and create embeddings into the chroma database.
+      acceptance-criteria:
+        - The application can parse the ChatGPT conversation history.
+        - The application can create embeddings into the chroma database.
+        - The application can retrieve relevant information from the chroma database.
+        - The application can maintain context in future interactions.
