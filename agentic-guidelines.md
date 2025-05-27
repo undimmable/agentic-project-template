@@ -79,3 +79,6 @@ Until we have implemented the Task Management Provider, tickets are to be taken 
    - tasks for developers in tasks.yml from user stories
  3. Developer Artifacts:
    - Implemented tasks from tasks.yml
+
+## Expressive Logging For Agentic Debugging
+The system should provide expressive logging capabilities to facilitate agentic debugging and introspection. This is outlined in the file [ExpressiveLoggingForAgenticDebugging](../expressive-logging-for-agentic-debugging.md).
